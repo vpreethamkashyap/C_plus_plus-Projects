@@ -1,4 +1,5 @@
-/*Author : V Preetham Kashyap*/
+/*Author : V Preetham Kashyap
+ * This file is first template of this project*/
 
 #include "../include/main.h"
 
