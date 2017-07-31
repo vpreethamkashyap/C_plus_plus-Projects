@@ -1,3 +1,5 @@
+/*Author : V Preetham Kashyap*/
+
 #include "../include/main.h"
 
 extern int show(const calc& obj);
